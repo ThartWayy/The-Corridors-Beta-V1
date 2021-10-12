@@ -1,18 +1,19 @@
 <h1>The-Corridors-Beta-V1</h1>
 A short game people think is too hard</br>
-<h3>How to play (From 0)</h3>
+<h3>How to play (From 0)</h3><br>
 
-<ol>What you need to play</ol>
-<li>- Python to interpret the code</li>
-<li>- A Code Editor to read the code using the python because the dafault python terminal couldn't read unicode emojis..</li>
-<li>  - I used Visual Studio Code in this installation guide. (No idea if anything else works)</li>
-<li>- A keyboard Module for fluid gameplay</li>
-<li>- Pip, a package installer to install the keyboard module</li>
-<li>- Mental Endurance and time</li>
+<strong>What you need to play</strong>
+<ol>
+<li>Python to interpret the code</li>
+<li>A Code Editor to read the code using the python because the dafault python terminal couldn't read unicode emojis..</li>
+<li>I used Visual Studio Code in this installation guide. (No idea if anything else works)</li>
+<li>A keyboard Module for fluid gameplay</li>
+<li>Pip, a package installer to install the keyboard module</li>
+<li>Mental Endurance and time</li>
 </ol>
 
------------------------------------------- Installing VSC code
-
+------------------------------------------ <strong>Installing VSC code</strong>
+<ol>
 1) Install python
 https://www.python.org/downloads/ 
 if it says "Add to Path", tick it the box
@@ -27,10 +28,10 @@ https://code.visualstudio.com/
 The extension store is the second bottom button on the left
 
 4) Boot up VSC and select the python extension as the interpreter
+</ol>
 
 
-
------------------------------------------- Installing the Keyboard Module
+------------------------------------------ <strong>Installing the Keyboard Module</strong>
 
 5) Install pip if it didn't come with python. 
 
