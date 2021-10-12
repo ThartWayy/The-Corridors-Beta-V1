@@ -1,0 +1,7 @@
+Make the game more forgiving by 
+
+Actaul square grids, but your smaller than one grid 
+REAL TIME
+Weapons have a cooldown (of one zombie grid)
+While a weapon is off cooldown, you can change weapons
+Remake it on pygame.
