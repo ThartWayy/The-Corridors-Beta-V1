@@ -10,7 +10,7 @@ A short game people think is too hard</br>
 <li>A keyboard Module for fluid gameplay</li>
 <li>Pip, a package installer to install the keyboard module</li>
 <li>Mental Endurance and time</li>
-</ol>
+</ol><br>
 
 ------------------------------------------ <strong>Installing VSC code</strong>
 <ol>
