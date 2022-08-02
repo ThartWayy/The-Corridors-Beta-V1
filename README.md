@@ -2,11 +2,11 @@
 A short game. I invested 2 weeks during the winter of 2021, don't hold anything against me please</br>
 <h3>How to play (From 0)</h3><br>
 
-Preview
+Preview<br>
+
 ![image](https://user-images.githubusercontent.com/92304197/182316038-fa8212a3-d4ea-4504-8791-fad4643beb3d.png)
 ![image](https://user-images.githubusercontent.com/92304197/182316190-9d502424-1f85-4c87-b3b8-152bbaceaf7f.png)
 ![image](https://user-images.githubusercontent.com/92304197/182317023-fec6cab9-8f06-4f7d-894c-7267c796a51a.png)
-![image](https://user-images.githubusercontent.com/92304197/182316395-00493960-9ebd-4598-a89e-d7f3812550c8.png)
 
 
 
