@@ -1,5 +1,5 @@
 <h1>The-Corridors-Beta-V1</h1>
-A short game. I invested 2 weeks during the winter of 2021, don't hold anything against me please</br>
+During the winter of 2021, this is a short game I invested 2 weeks in. :) </br>
 <h3>How to play (From 0)</h3><br>
 
 Preview<br>
