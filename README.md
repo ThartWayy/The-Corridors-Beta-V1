@@ -7,7 +7,8 @@ Preview<br>
 ![image](https://user-images.githubusercontent.com/92304197/182316038-fa8212a3-d4ea-4504-8791-fad4643beb3d.png)
 ![image](https://user-images.githubusercontent.com/92304197/182316190-9d502424-1f85-4c87-b3b8-152bbaceaf7f.png)
 ![image](https://user-images.githubusercontent.com/92304197/182317023-fec6cab9-8f06-4f7d-894c-7267c796a51a.png)
-
+TELL ME THIS ISN'T APPEALING FOR A HIGHSCHOOL PROJECT 😭
+![image](https://github.com/ThartWayy/The-Corridors-Beta-V1/assets/92304197/7dd1880c-1d50-451d-a622-f9eda645460d)
 
 
 <strong>What you need to play</strong>
